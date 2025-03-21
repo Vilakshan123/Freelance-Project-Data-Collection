@@ -7,7 +7,7 @@ Fetching project data from freelancer.com. This project collects AI-related proj
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/Vilakshan123/freelance-project-data-collection.git
+   git clone [https://github.com/Vilakshan123/freelance-project-data-collection.git](https://github.com/Vilakshan123/Freelance-Project-Data-Collection.git)
    cd data-collection-assignment
 ```
 2. Install the dependencies
